@@ -1,4 +1,4 @@
-package xuanhieu;
+package xuanhieu.tuan1;
 import java.util.*;
 public class bai2 {
     public static void main(String[] args) {

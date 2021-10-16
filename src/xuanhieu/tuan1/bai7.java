@@ -1,4 +1,4 @@
-package xuanhieu;
+package xuanhieu.tuan1;
 
 public class bai7 {
 

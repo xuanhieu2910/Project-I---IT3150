@@ -1,4 +1,4 @@
-package xuanhieu;
+package xuanhieu.tuan1;
 
 import java.util.Scanner;
 import java.util.*;
